@@ -17,9 +17,9 @@ Hi, I'm Fiqry choerudin.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats" />
 </a>
 
-<a href="https://github.com/fiqryq/Nabung">
+<!-- <a href="https://github.com/fiqryq/Nabung">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fiqryq&repo=Nabung&theme=radical" />
 </a>    
 <a href="https://github.com/fiqryq/Pantaucovid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fiqryq&repo=Pantaucovid&theme=radical" />
-</a>
+</a> -->
