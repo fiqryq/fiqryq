@@ -5,7 +5,6 @@
 </a>
 
 <br />
-<br />
 
 Hi, I'm Fiqry choerudin.
 
@@ -13,19 +12,18 @@ Hi, I'm Fiqry choerudin.
 - 🌱 I’m currently learning Javascript & Kotlin
 - 💬 Ask me about anything [here](https://github.com/fiqryq/fiqryq/issues)
 
+<br />
+
 <a href="https://github.com/fiqryq/fiqryq">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/fiqryq/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats" />
 </a>
 
-<a href="https://github.com/fiqryq/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Nabung&theme=radical" />
+<a href="https://github.com/fiqryq/Nabung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fiqryq&repo=Nabung&theme=radical" />
 </a>    
-<a href="https://github.com/fiqryq/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Pantaucovid&theme=radical" />
+<a href="https://github.com/fiqryq/Pantaucovid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fiqryq&repo=Pantaucovid&theme=radical" />
 </a>
