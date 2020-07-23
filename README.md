@@ -15,17 +15,17 @@ Hi, I'm Fiqry choerudin.
 
 <a href="https://github.com/fiqryq/fiqryq">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.fiqryq.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/fiqryq/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.fiqryq.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats" />
 </a>
 
 <a href="https://github.com/fiqryq/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.fiqryq.vercel.app/api/pin/?username=anuraghazra&repo=Nabung&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Nabung&theme=radical" />
 </a>    
 <a href="https://github.com/fiqryq/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.fiqryq.vercel.app/api/pin/?username=anuraghazra&repo=Pantaucovid&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Pantaucovid&theme=radical" />
 </a>
