@@ -16,17 +16,17 @@ Hi, I'm Fiqry choerudin.
 
 <a href="https://github.com/fiqryq>
   <!-- Change the `github-readme-stats.fiqryq1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1"/>
 </a>
 
 <a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical&line_height=27" alt="Fiqry github stats"/>
 </a>
 
-<a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Nabung&theme=radical" />
+<a href="https://github.com/fiqryq/Nabung">
+  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Nabung&theme=radical"/>
 </a>    
 
-<a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Pantaucovid&theme=radical" />
+<a href="https://github.com/fiqryq/Pantaucovid">
+  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Pantaucovid&theme=radical"/>
 </a>
