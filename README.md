@@ -13,19 +13,4 @@ Hi, I'm Fiqry choerudin.
 - 🌱 I’m currently learning Javascript & Kotlin
 - 💬 Ask me about anything [here](https://github.com/fiqryq/fiqryq/issues)
 
-
-<a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq)](https://github.com/fiqryq)
-</a>
-
-<a>
-  ![Fiqry github stats](https://github-readme-stats.vercel.app/api?username=fiqryq&show_icons=true&theme=radical)
-</a>
-
-<a>
- 
-</a>    
-
-<a>
-  
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq)](https://github.com/fiqryq)
