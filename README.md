@@ -24,9 +24,9 @@ Hi, I'm Fiqry choerudin.
 </a>
 
 <a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Nabung&theme=radical" />
 </a>    
 
 <a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=fiqryq.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app.vercel.app/api/pin/?username=fiqryq&repo=Pantaucovid&theme=radical" />
 </a>
