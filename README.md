@@ -5,6 +5,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm Fiqry choerudin.
 
@@ -12,10 +13,8 @@ Hi, I'm Fiqry choerudin.
 - 🌱 I’m currently learning Javascript & Kotlin
 - 💬 Ask me about anything [here](https://github.com/fiqryq/fiqryq/issues)
 
-<br />
 
-<a href="https://github.com/fiqryq>
-  <!-- Change the `github-readme-stats.fiqryq1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/fiqryq">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=radical&hide_langs_below=1"/>
 </a>
 
