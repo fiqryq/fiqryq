@@ -1,5 +1,5 @@
 <a href="https://github.com/fiqryq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&theme=default&hide=C#" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqryq&hide=c#"/>
 </a>
 
 <a href="https://github.com/fiqryq/github-readme-stats">
