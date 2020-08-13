@@ -3,18 +3,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3.4%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 564 Contributions in year 2020
- > 
-> 📦 Used 258.7 kB in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 77 Public Repositories 
- > 
-> 🔑 21 Owned Private Repositories 
-
 📊 **This week I spent my time on** 
 
 ```text
@@ -42,22 +30,4 @@ bot                      8 mins              ░░░░░░░░░░░�
 Windows                  6 hrs               █████████████████████████   100.0%
 
 ```
-
-**I mostly code in Java** 
-
-```text
-Java                     29 repos            ██████████░░░░░░░░░░░░░░░   43.28% 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.46%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/fiqryq/fiqryq/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
