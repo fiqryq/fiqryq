@@ -1,4 +1,5 @@
-👋 Hello! I'm Fiqry choerudin.
+# 👋 Hello! I'm Fiqry choerudin.
+Hit me :
 [![Linkedin Badge](https://img.shields.io/badge/-fiqry%20choerudin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fiqrychoerudin)](https://www.linkedin.com/in/fiqrychoerudin)
 [![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
 [![Youtube Badge](https://img.shields.io/badge/-fiqrychoerudin-darkred?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)](https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)
