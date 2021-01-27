@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bot
+### Hi there 👋, I'm Fiqry choerudin
 
 ## Just learn programming , u can call me piq.
 - 🔭 I’m currently freelance
@@ -7,8 +7,8 @@
 - 🎹 I like music. 
 - 📫 How to reach me: DM me at instagram [@fiqryq](https://instagram.com/fiqryq)
 - 📱 Visit my [playstore](https://tinyurl.com/suncodeid)
-- ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.27 %
-- ⏰ Updated on Wed, 27 Jan 2021 12:47:40 GMT
+- ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.29 %
+- ⏰ Updated on Wed, 27 Jan 2021 14:31:02 GMT
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
