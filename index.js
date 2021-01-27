@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋, I'm Bot
+### Hi there 👋, I'm Fiqry choerudin
 
 ## Just learn programming , u can call me piq.
 - 🔭 I’m currently freelance
