@@ -8,8 +8,8 @@
 - 📫 How to reach me: DM me at instagram [@fiqryq](https://instagram.com/fiqryq)
 - 📱 Visit my [playstore](https://tinyurl.com/suncodeid)
 - 🔗 Visit my [stackoverflow](https://stackoverflow.com/users/12970384/fiqry-choerudin?tab=profile)
-- ⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.36 %
-- ⏰ Updated on Thu, 18 Feb 2021 18:02:48 GMT
+- ⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.43 %
+- ⏰ Updated on Fri, 19 Feb 2021 00:06:06 GMT
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
