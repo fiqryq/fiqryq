@@ -18,7 +18,7 @@ const readme = `\
 ### Hi there 👋, I'm Fiqry choerudin
 
 ## Just learn programming , u can call me piq.
-- 🔭 I’m currently freelance
+- 🔭 I’m currently intern dev.
 - 🌱 I’m currently learning everything
 - 🚧 I'm open for collaboration and project
 - 🎹 I like music. 
