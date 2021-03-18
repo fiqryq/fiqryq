@@ -34,7 +34,7 @@ const readme = `\
 [![Youtube Badge](https://img.shields.io/badge/-fiqrychoerudin-darkred?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)](https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)
 [![Medium Badge](https://img.shields.io/badge/-fiqryq-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@fiqryq)
 [![Artstation Badge](https://img.shields.io/badge/-fiqryq-blue?style=for-the-badge&logo=Artstation&logoColor=white&link=https://www.artstation.com/fiqryq)](https://www.artstation.com/fiqryq)
-[![Gmail Badge](https://img.shields.io/badge/-work.fiqrychoerudin@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:work.fiqrychoerudin@gmail.com)](mailto:work.fiqrychoerudin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:work.fiqrychoerudin@gmail.com)](mailto:work.fiqrychoerudin@gmail.com)
 [![Dribble Badge](https://img.shields.io/badge/-fiqrychoerudin-magenta?style=for-the-badge&logo=Dribbble&logoColor=white&link=https://dribbble.com/fiqrychoerudin)](https://dribbble.com/fiqrychoerudin)
 [![Reddit Badge](https://img.shields.io/badge/-bleki99-orange?style=for-the-badge&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/bleki99)](https://www.reddit.com/user/bleki99)
 `
