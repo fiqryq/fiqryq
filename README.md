@@ -9,15 +9,15 @@
 - 📱 Visit my [playstore](https://tinyurl.com/suncodeid)
 - 🔗 Visit my [stackoverflow](https://stackoverflow.com/users/12970384/fiqry-choerudin?tab=profile)
 - 🏤 Visit my [linkedIn](https://www.linkedin.com/in/fiqrychoerudin/)
-- ⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.89 %
-- ⏰ Updated on Thu, 18 Mar 2021 06:03:16 GMT
+- ⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.95 %
+- ⏰ Updated on Thu, 18 Mar 2021 10:52:05 GMT
 
 ### Connect with me
-[![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
-[![Youtube Badge](https://img.shields.io/badge/-fiqrychoerudin-darkred?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)](https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)
-[![Medium Badge](https://img.shields.io/badge/-fiqryq-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@fiqryq)
-[![Artstation Badge](https://img.shields.io/badge/-fiqryq-blue?style=flat-square&logo=Artstation&logoColor=white&link=https://www.artstation.com/fiqryq)](https://www.artstation.com/fiqryq)
-[![Gmail Badge](https://img.shields.io/badge/-work.fiqrychoerudin@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.fiqrychoerudin@gmail.com)](mailto:work.fiqrychoerudin@gmail.com)
-[![Dribble Badge](https://img.shields.io/badge/-fiqrychoerudin-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/fiqrychoerudin)](https://dribbble.com/fiqrychoerudin)
-[![Reddit Badge](https://img.shields.io/badge/-bleki99-orange?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/bleki99)](https://www.reddit.com/user/bleki99)
+[![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
+[![Youtube Badge](https://img.shields.io/badge/-fiqrychoerudin-darkred?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)](https://www.youtube.com/channel/UCAFAEpUDZ4QUkG-yLnBSAMg)
+[![Medium Badge](https://img.shields.io/badge/-fiqryq-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@fiqryq)
+[![Artstation Badge](https://img.shields.io/badge/-fiqryq-blue?style=for-the-badge&logo=Artstation&logoColor=white&link=https://www.artstation.com/fiqryq)](https://www.artstation.com/fiqryq)
+[![Gmail Badge](https://img.shields.io/badge/-work.fiqrychoerudin@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:work.fiqrychoerudin@gmail.com)](mailto:work.fiqrychoerudin@gmail.com)
+[![Dribble Badge](https://img.shields.io/badge/-fiqrychoerudin-magenta?style=for-the-badge&logo=Dribbble&logoColor=white&link=https://dribbble.com/fiqrychoerudin)](https://dribbble.com/fiqrychoerudin)
+[![Reddit Badge](https://img.shields.io/badge/-bleki99-orange?style=for-the-badge&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/bleki99)](https://www.reddit.com/user/bleki99)
 
