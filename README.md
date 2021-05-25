@@ -9,8 +9,8 @@
 - 📱 Visit my [playstore](https://tinyurl.com/suncodeid)
 - 🔗 Visit my [stackoverflow](https://stackoverflow.com/users/12970384/fiqry-choerudin?tab=profile)
 - 🏤 Visit my [linkedIn](https://www.linkedin.com/in/fiqrychoerudin/)
-- ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.46 %
-- ⏰ Updated on Tue, 25 May 2021 00:21:02 GMT
+- ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.52 %
+- ⏰ Updated on Tue, 25 May 2021 06:17:41 GMT
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@fiqryq-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/fiqryq/)](https://instagram.com/fiqryq)
