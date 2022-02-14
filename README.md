@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-end Developer working in Bandung, Indonesia.
-
+I'm a Front-end Developer working in Bandung, Indonesia.
 - 🏢 I'm currently working at **PUTI Telkom University**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.tailwind`, `.react`.
 - 🌍 I'm mostly active on **Twitter**
