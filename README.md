@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm a Front-end Developer currently working at **Kitabisa**.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.tailwind`, `.react`.
 - 🌍 I'm mostly active on **Twitter**
 - 🌱 Learning all about **Open Source**
