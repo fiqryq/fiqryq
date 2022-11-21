@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.tailwind`, `.react`.
+- ⚙️ My stack : `.ts`, `.js`, `.html`, `.css`, `.tailwind`, `.react`.
 - ⚙️ IDE : `neovim` , `vscode`
 - :computer: I'm mostly active on **Twitter**
 - :label: Learning all about **Open Source**
