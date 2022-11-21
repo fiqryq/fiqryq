@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.tailwind`, `.react`.
-- ⚙️ Ide : `neovim` , `vscode`
-- 🌍 I'm mostly active on **Twitter**
-- 🌱 Learning all about **Open Source**
-- 📫 Reach me: [twitter.com/fiqryq_](https://twitter.com/fiqryq_)
+- ⚙️ IDE : `neovim` , `vscode`
+- :computer: I'm mostly active on **Twitter**
+- :label: Learning all about **Open Source**
+- :envelope: Reach me: [twitter.com/fiqryq_](https://twitter.com/fiqryq_)
+- :package: My packages : [NPM](https://www.npmjs.com/settings/fiqryq/packages)
 - ⚡️ Fun fact: I'm a huge fan of Game of throne ( except the final season )
+
