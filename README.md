@@ -2,6 +2,10 @@
 
 Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and other web-based projects :octocat:.
 
-### Find me on the web:
+#### Find me on the web :
 - You can find my full portfolio on [fiqry.dev](https://fiqry.dev)
 - You can find me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
+
+#### Address :
+- Ethereum : ```fiqry.eth```
+- Solana : ```fiqry.sol```
