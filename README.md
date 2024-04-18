@@ -5,7 +5,7 @@ Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and o
 #### Find me on the web :
 - You can find my full portfolio on [fiqry.dev](https://fiqry.dev)
 - You can find me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
-- You can see my NFT collection at my [Opensea](https://opensea.io/fiqrychoerudin)
+- You can see my NFT collection at my [Opensea](https://opensea.io/0xfiqry)
 
 #### Address :
 - Ethereum : ```fiqry.eth```
