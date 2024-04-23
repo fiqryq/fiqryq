@@ -2,11 +2,15 @@
 
 Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and other web-based projects :octocat:.
 
-#### Find me on the web :
-- You can find my full portfolio on [fiqry.dev](https://fiqry.dev)
-- You can find me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
-- You can see my NFT collection at my [Opensea](https://opensea.io/0xfiqry)
+#### Find Me Online
+- Explore my full portfolio at [fiqry.dev](https://fiqry.dev)
+- Connect with me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
+  
+#### Web 3 Presence
+- Visit me on [hey.xyz](https://hey.xyz/u/fiqryq)
+- Find my profile on Talent Protocol at [talentprotocol](https://passport.talentprotocol.com/profile/273478)
+- Explore my NFT collection on [Opensea](https://opensea.io/0xfiqry)
 
-#### Address :
+#### Contact Info
 - Ethereum : ```fiqry.eth```
 - Solana : ```fiqry.sol```
