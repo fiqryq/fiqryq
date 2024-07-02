@@ -10,3 +10,6 @@ Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and o
 - Visit me on [hey.xyz](https://hey.xyz/u/fiqryq)
 - Find my profile on Talent Protocol at [talentprotocol](https://passport.talentprotocol.com/profile/273478)
 - Explore my NFT collection on [Opensea](https://opensea.io/0xfiqry)
+
+#### Stats
+<img src="https://duolingo-stats-card.vercel.app/api?username=fiqryq&theme=nightowl" alt="Duolingo Stats"/>
