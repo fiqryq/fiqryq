@@ -6,7 +6,3 @@ Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and o
 - Explore my full portfolio at [fiqry.dev](https://fiqry.dev)
 - Connect with me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
   
-#### Web 3 Presence
-- Visit me on [hey.xyz](https://hey.xyz/u/fiqryq)
-- Find my profile on Talent Protocol at [talentprotocol](https://passport.talentprotocol.com/profile/273478)
-- Explore my NFT collection on [Opensea](https://opensea.io/0xfiqry)
