@@ -5,4 +5,6 @@ Hi, I'm Fiqry! I'm a software developer from Indonesia developing web-apps and o
 #### Find Me Online
 - Explore my full portfolio at [fiqry.dev](https://fiqry.dev)
 - Connect with me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
+- Medium : [@fiqryq](https://fiqryq.medium.com/)
+
   
