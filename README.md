@@ -7,16 +7,13 @@ I'm a Software Engineer based in Indonesia, currently working at Kitabisa as a F
 - **Domains** : Software Engineering, Frontend Engineering, UI Engineering.
 - **Tech Stack** : TypeScript, JavaScript, React, CSS, SCSS.
 
-
-#### Find Me Online
-- Explore my full portfolio at [fiqry.dev](https://fiqry.dev)
-- Connect with me on Twitter : [@fiqryq](https://twitter.com/fiqryq_)
-- Medium : [@fiqryq](https://fiqryq.medium.com/)
-- ens : fiqry.eth / fiqry.base.eth
-- sns : fiqry.sol
-
 #### Latest Project
-- [port](https://github.com/fiqryq/port) - A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
-- [wakastat.nvim](https://github.com/fiqryq/wakastat.nvim) - wakatime coding status on your neovim.
-- [media](https://github.com/fiqryq/media) - public assets sync using cloudflare R2.
+- [flac](https://github.com/fiqryq/flac) : A macOS app for playing FLAC and other hi-res audio, built with SwiftUI.
+- [media](https://github.com/fiqryq/media) : public assets sync using cloudflare R2.
+
+#### Dotfile Stuff
+- [config](https://github.com/fiqryq/config) : Personal dotfiles managed with Nix Home Manager.
+- [opentmux](https://github.com/fiqryq/opentmux) : Run AI coding agents on tmux session.
+- [port](https://github.com/fiqryq/port) : A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
+- [wakastat.nvim](https://github.com/fiqryq/wakastat.nvim) : wakatime coding status on your neovim.
 
