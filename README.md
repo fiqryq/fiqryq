@@ -7,6 +7,11 @@ I'm a Software Engineer based in Indonesia, currently working at Kitabisa as a F
 - **Domains** : Software Engineering, Frontend Engineering, UI Engineering.
 - **Tech Stack** : TypeScript, JavaScript, React, CSS, SCSS.
 
+
+#### /Skills
+- [awwwards-craft](https://github.com/fiqryq/awwwards-craft) : Agent Skill for building Awwwards-level websites with Astro, pure CSS, GSAP and Lenis.
+- [Snap](https://github.com/fiqryq/snap) : Figma to native SwiftUI and Compose UI, pixel-perfect and refined on the simulator or emulator.
+
 #### Latest Project
 - [flac](https://github.com/fiqryq/flac) : A macOS app for playing FLAC and other hi-res audio, built with SwiftUI.
 - [media](https://github.com/fiqryq/media) : public assets sync using cloudflare R2.
